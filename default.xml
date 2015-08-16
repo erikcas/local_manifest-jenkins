@@ -8,6 +8,6 @@
         	<project path="kernel/sony/msm8974" name="galaxyfreak/kernel" revision="cm-12.1" />   
 	
 	<!-- Proprietary blobs -->
-		<project path="vendor/qcom" name="galaxyfreak/proprietary_vendor_qcom" revision="cm-12.1" />
-		<project path="vendor/sony" name="galaxyfreak/proprietary_vendor_sony" revision="cm-12.1" />
+		<project path="vendor/qcom" name="galaxyfreak/vendor-qcom" revision="cm-12.1" />
+		<project path="vendor/sony" name="galaxyfreak/vendor-sony" revision="cm-12.1" />
 </manifest>
