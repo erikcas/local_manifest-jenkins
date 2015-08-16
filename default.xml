@@ -10,4 +10,11 @@
 	<!-- Proprietary blobs -->
 		<project path="vendor/qcom" name="galaxyfreak/vendor-qcom" revision="cm-12.1" />
 		<project path="vendor/sony" name="galaxyfreak/vendor-sony" revision="cm-12.1" />
+
+	<!-- From roomservice -->
+		<project name="CyanogenMod/android_device_sony_common" path="device/sony/common" remote="github" />
+		<project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
+		<project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" />
+		<project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" />
+
 </manifest>
