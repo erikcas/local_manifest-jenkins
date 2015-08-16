@@ -17,4 +17,7 @@
 		<project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" />
 		<project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" />
 
+	<!-- A usefull addition from sonyxperiadev -->
+		<project path="hardware/sony/system/timekeep" name="sonyxperiadev/timekeep" groups="device" revision="master" />
+
 </manifest>
